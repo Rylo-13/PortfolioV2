@@ -83,8 +83,8 @@ export default function Navbar() {
                 whileTap={{ scale: 0.95 }}
               >
                 <a
-                  href="/resume.pdf"
-                  download="Rylan_McNeil_Resume.pdf"
+                  href="/Rylan-McNeil_Resume.pdf"
+                  download="Rylan-McNeil_Resume.pdf"
                   className="flex items-center space-x-2 px-4 py-2 border border-[var(--accent)] text-[var(--accent)] bg-transparent hover:bg-[var(--accent)] hover:text-background transition-all duration-300 nav-text relative group rounded"
                 >
                   <span>RESUME</span>

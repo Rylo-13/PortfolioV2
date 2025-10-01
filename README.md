@@ -15,6 +15,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - **Next.js 15** - React framework with App Router and Turbopack
 - **TypeScript** - Type-safe JavaScript
 - **Tailwind CSS 4** - Utility-first CSS framework
@@ -22,6 +23,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 - **next-themes** - Dark mode support
 
 ### Development Tools
+
 - **ESLint** - Code linting
 - **PostCSS** - CSS processing
 - **Vercel** - Deployment platform
@@ -30,7 +32,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 ```
 portfolioV2/
-├── app/                    # Next.js App Router
+├── app/                   # Next.js App Router
 │   ├── layout.tsx         # Root layout component
 │   ├── page.tsx           # Home page
 │   ├── not-found.tsx      # 404 page
@@ -64,17 +66,20 @@ portfolioV2/
 ## 🎨 Design Features
 
 ### Color Scheme
+
 - **Light Theme**: Clean off-white background with dark accents
 - **Dark Theme**: Deep black background with purple accents
 - **Custom CSS Variables**: Consistent theming across components
 
 ### Animations
+
 - Staggered entrance animations
 - Smooth scroll transitions
 - Hover effects and micro-interactions
 - Intersection Observer based animations
 
 ### Responsive Breakpoints
+
 - **Mobile**: 320px+
 - **Tablet**: 640px+
 - **Desktop**: 1024px+
@@ -83,23 +88,27 @@ portfolioV2/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js 18+
 - npm or yarn
 
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Rylo-13/PortfolioV2.git
    cd portfolioV2
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Run the development server**
+
    ```bash
    npm run dev
    ```
@@ -117,28 +126,33 @@ portfolioV2/
 ## 📋 Sections
 
 ### 1. Hero Section
+
 - Animated hero text with staggered entrance
 - Professional introduction
 - Call-to-action elements
 
 ### 2. About Me
+
 - Personal background and experience
 - Technology stack showcase
 - Professional bio
 
 ### 3. Work Experience
+
 - Interactive work experience cards
 - Company information and roles
 - Detailed achievements and responsibilities
 - Responsive timeline layout
 
 ### 4. Projects
+
 - Showcase of key projects
 - Project descriptions and technologies
 - Live links to deployed projects
 - Visual project previews
 
 ### 5. Contact
+
 - Professional contact form
 - Email integration
 - Social media links
@@ -146,17 +160,20 @@ portfolioV2/
 ## 🎯 Key Features
 
 ### Navigation
+
 - Fixed navigation bar with smooth scrolling
 - Theme toggle button
 - Mobile-responsive design
 - Section highlighting on scroll
 
 ### Social Links
+
 - Floating social media icons
 - GitHub and LinkedIn integration
 - Animated entrance effects
 
 ### Performance
+
 - Optimized images with Next.js Image component
 - Lazy loading for better performance
 - Turbopack for faster builds
@@ -215,6 +232,7 @@ Edit `data/experience.ts`:
 3. Deploy automatically on push to main branch
 
 ### Other Platforms
+
 - Netlify
 - AWS Amplify
 - DigitalOcean App Platform

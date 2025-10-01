@@ -25,10 +25,8 @@ export default function Hero() {
             className="space-y-12"
           >
             <div className="space-y-6">
-              <h1 className="text-6xl md:text-7xl heading-large leading-none text-primary">
-                Building
-                <br />
-                Web3
+              <h1 className="text-7xl md:text-7xl heading-medium leading-none text-primary">
+                Building Web3
               </h1>
             </div>
 

@@ -71,7 +71,9 @@ export default function About() {
             <p className="nav-text mb-6 text-secondary">TECHNOLOGIES</p>
             <div className="grid grid-cols-3 gap-8">
               <div className="space-y-4">
-                <p className="nav-text text-secondary">Frontend</p>
+                <div className="pb-2 border-b-[0.1px] border-[var(--foreground)]">
+                  <p className="text-primary font-semibold">Frontend</p>
+                </div>
                 <p className="text-primary">JavaScript</p>
                 <p className="text-primary">TypeScript</p>
                 <p className="text-primary">React</p>
@@ -79,7 +81,9 @@ export default function About() {
                 <p className="text-primary">Tailwind CSS</p>
               </div>
               <div className="space-y-4">
-                <p className="nav-text text-secondary">Web3</p>
+                <div className="pb-2 border-b-[0.1px] border-[var(--foreground)]">
+                  <p className="text-primary font-semibold">Web3</p>
+                </div>
                 <p className="text-primary">Solidity</p>
                 <p className="text-primary">Ethers.js</p>
                 <p className="text-primary">Wagmi</p>
@@ -87,7 +91,9 @@ export default function About() {
                 <p className="text-primary">LayerZero</p>
               </div>
               <div className="space-y-4">
-                <p className="nav-text text-secondary">Tools</p>
+                <div className="pb-2 border-b-[0.1px] border-[var(--foreground)]">
+                  <p className="text-primary font-semibold">Tools</p>
+                </div>
                 <p className="text-primary">Vercel</p>
                 <p className="text-primary">AWS</p>
                 <p className="text-primary">GraphQL</p>
