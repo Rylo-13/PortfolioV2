@@ -26,7 +26,7 @@ export default function Hero() {
           >
             <div className="space-y-6">
               <h1 className="text-7xl md:text-7xl heading-medium leading-none text-primary">
-                Building Web3
+                Building Digital Experiences
               </h1>
             </div>
 
@@ -38,7 +38,7 @@ export default function Hero() {
             >
               <p className="text-lg body-text leading-relaxed max-w-lg text-primary">
                 I create intuitive applications with a focus on user experience.
-                Making complex blockchain interactions feel simple.
+                Making complex technologies accessible and enjoyable.
               </p>
             </motion.div>
           </motion.div>

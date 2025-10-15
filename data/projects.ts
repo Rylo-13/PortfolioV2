@@ -30,7 +30,7 @@ export const projects: Project[] = [
     category: "Web App",
     tech: "React • Next.js • TypeScript • Tailwind CSS",
     description: [
-      "Designed and built the chatbot UI end to end for Australian Super. Planned user flows in Figma, set up Auth0 authentication, and implemented production React/TypeScript components",
+      "Designed and built the chatbot UI end-to-end for Australian Super. Planned user flows in Figma, set up Auth0 authentication, and implemented production React/TypeScript components",
       "Collaborated with one backend developer to define API contracts and integrate messaging endpoints, managing authenticated requests and robust error handling",
       "Implemented core features: session message history, document upload for context, and transcript downloads so users can save and reference conversations",
       "Focused on usability and trust for a financial service with responsive layouts, keyboard and screen-reader support, and clear loading, empty and error states",

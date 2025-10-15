@@ -30,17 +30,16 @@ export default function About() {
         >
           <div className="space-y-6 gap-8 py-8">
             <p className="leading-relaxed text-primary">
-              Hi, I&rsquo;m Rylan. I design and build Web3 frontends &mdash;
-              DeFi, NFTs, DAOs and tokenised RWAs &mdash; and I occasionally
-              handle smart contract deployments.
+              Hi, I&rsquo;m Rylan. I design and build modern frontend
+              applications with a focus on user experience, performance, and
+              clean architecture. I specialize in creating scalable React
+              applications and building complex, data-driven interfaces.
             </p>
 
             <p className="leading-relaxed text-primary">
-              My journey in the blockchain space started when I bought Bitcoin
-              in 2020. I quickly became curious about the underlying technology,
-              which led me to the Bitcoin white paper, a blockchain fundamentals
-              course on Udemy, and a full-stack bootcamp in Melbourne. I then
-              joined{" "}
+              My journey into software development began in 2020, leading me
+              through a full-stack bootcamp in Melbourne and into professional
+              work at{" "}
               <a
                 href="https://www.blockmajority.io/"
                 target="_blank"
@@ -53,9 +52,9 @@ export default function About() {
                   style={{ backgroundColor: "var(--accent)" }}
                 />
               </a>
-              , where I&rsquo;ve delivered 4+ in-house Web3 products for
-              clients, while contracting with ANZ to design and build RWA
-              features and other blockchain solutions.
+              . There I&rsquo;ve delivered 4+ applications for clients,
+              including contracted work with ANZ designing and building
+              enterprise-grade features and financial technology solutions.
             </p>
 
             <p className="leading-relaxed text-primary">
