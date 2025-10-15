@@ -13,7 +13,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="relative z-10 min-h-screen flex items-center px-8 xl:px-0 pt-20 bg-background"
+      className="relative z-10 min-h-screen flex items-center px-6 md:px-8 xl:px-0 pt-20 bg-background"
     >
       <div className="max-w-6xl mx-auto w-full">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
@@ -25,7 +25,7 @@ export default function Hero() {
             className="space-y-12"
           >
             <div className="space-y-6">
-              <h1 className="text-7xl md:text-7xl heading-medium leading-none text-primary">
+              <h1 className="text-5xl md:text-7xl heading-medium leading-none text-primary">
                 Building Digital Experiences
               </h1>
             </div>

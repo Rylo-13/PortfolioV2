@@ -27,7 +27,7 @@ export default function Projects() {
             <div className="border-t border-gray first:border-t-0">
               <div className="grid grid-cols-1 lg:grid-cols-3 gap-0 py-12">
                 {/* Left Content - 2/3 */}
-                <div className="lg:col-span-2 lg:pr-12 lg:border-r border-gray">
+                <div className="lg:col-span-2 lg:pr-12 lg:border-r lg:border-gray">
                   <div className="mb-3">
                     <h3 className="text-2xl heading-medium transition-colors text-primary">
                       {project.title}
